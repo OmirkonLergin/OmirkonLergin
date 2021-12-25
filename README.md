@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @OmirkonLergin  I understand English very poorly.
-- 👀 I’m interested in  I would really like to learn how to write codes and understand them.
-- 🌱 I’m currently learning ...I learn from zero, but I quickly understand and remember.
-- 💞️ I’m looking to collaborate on  To begin with, I must understand what I can and what I can do.
-- 📫 How to reach me ...
-Just text me on the TG channel
-
-<!---
-OmirkonLergin/OmirkonLergin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---- >
-
+Hello, my name is  OmikronLergin.
+I'm new here, I don’t know anything, but I have a very strong desire to learn everything, I’m ready to start from zero.
+I know it will be difficult, but if hardened metal can be broken, so why can't you learn, the most important thing is the desire and desire, to learn everything new
+Have a nice day, everyone. &#129303;&#129402;
